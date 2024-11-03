@@ -12,9 +12,9 @@
 }
 
 .contact__link {
+    cursor: pointer; 
     text-decoration: underline;
     text-underline-offset: 4px;
-    cursor: pointer; 
 }  
   
 .link_active {
